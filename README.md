@@ -2,6 +2,8 @@
 
 This repository contains a technical Proof of Concept (PoC) for the **OWASP FinBot CTF** project. It demonstrates a secure multi-agent financial workflow built using **LangGraph**.
 
+![FinBot Architecture Diagram](finbot_architecture.png)
+
 ## Architecture
 The system utilizes a state graph to coordinate three specialized AI agents:
 1.  **Invoicer**: Handles initial invoice data generation.
